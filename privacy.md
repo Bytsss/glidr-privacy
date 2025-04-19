@@ -31,4 +31,4 @@ Glidr is designed for a single purpose: to enhance your experience on LinkedIn b
 ## Contact
 
 If you have any questions or concerns about this policy, feel free to contact us at:
-contact@example.com
+brianyau8@gmail.com
